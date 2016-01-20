@@ -1,5 +1,5 @@
 # 说明
-![icon](/Users/liumengjie/backups/home.png)
+![icon](http://25.io/mou/Mou_128.png)
 ####此库主要用来备份平时学习中写的一些小模块，或者小函数，以便日后查看。
 ---
 *学习*
